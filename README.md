@@ -1,2 +1,2 @@
 # Naive-TcpServer
-A naive TcpServer written in JAVA for future use
+A naive Tcp-Server (TCP Protocol) written in JAVA for future use
